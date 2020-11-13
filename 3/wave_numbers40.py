@@ -6,14 +6,6 @@ for _ in range(40):
 
 print('')
 
-for i ia = '_-^-'
-s = '-'
-v = 1
-for _ in range(40):
-    print(s, end='')
-
-print('')
-
 for i in range(10):
     print(a, end='')
 

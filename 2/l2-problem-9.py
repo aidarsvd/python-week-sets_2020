@@ -1,27 +1,15 @@
 try:
     age = int(input())
 
-    if age >= 18 and age <= 150:
+    if age >= 19 and age <= 149:
         print("Old enough!")
 
-    elif age <= 17 and age >= 0:
-        print("Young enough")
+    elif age <= 18 and age >= 0:
+        print("Too young.")
 
     else:
         print('Incorrect age.')
 
 except ValueError:
-    print('Incorrecttry:
-    age = int(input())
-
-    if age >= 18 and age <= 150:
-        print("Old enough!")
-
-    elif age <= 17 and age >= 0:
-        print("Young enough")
-
-    else:
-        print('Incorrect age.')
-
-except ValueError:
+    print('Incorrect age.')
     print('Incorrect age.')

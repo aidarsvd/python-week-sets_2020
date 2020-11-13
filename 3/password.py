@@ -5,13 +5,6 @@ print('Your credentials are {} {}.' .format(name, sur))
 
 p = []
 
-n = len(naname = input()
-sur = input()
-
-print('Your credentials are {} {}.' .format(name, sur))
-
-p = []
-
 n = len(name)
 s = len(sur)
 g = 1
@@ -40,3 +33,6 @@ else:
 pp = ''.join(p)
 
 print("Your password is " +pp+'.')
+
+
+

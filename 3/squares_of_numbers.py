@@ -1,16 +1,3 @@
-
-num = int(input())
-
-square = 0
-r = []
-w = 0
-
-if num <= -1:
-    for i in range(1, (num * (-1))+1):
-        square = i ** 2
-        r.append(square)
-
-elif 
 num = int(input())
 
 square = 0
